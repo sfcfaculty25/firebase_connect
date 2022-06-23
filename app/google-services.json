@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794609278556",
+    "firebase_url": "https://databasetest-baab5-default-rtdb.firebaseio.com",
+    "project_id": "databasetest-baab5",
+    "storage_bucket": "databasetest-baab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794609278556:android:6f0f51843f63c2b0285099",
+        "android_client_info": {
+          "package_name": "com.dawai.firebaseconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794609278556-17nfq5nsa7ficgpbk805i8vf7a2mph39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGjn2o4SoUQg8aK4Wizg90AH4ksnPMWUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794609278556-17nfq5nsa7ficgpbk805i8vf7a2mph39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
